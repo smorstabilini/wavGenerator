@@ -8,6 +8,14 @@
 > pip3 install -r requirements.txt
 
 
+Utilizzo:
+
+> python generaWav.py "nome cognome" ~/mydir/checkName
+
+
+
+-----   work in progress, non prendere alla lettera quanto scritto qua sotto:
+
 
 http://localhost/startTest?guid=xxx&step=yyy&additionalData=zzz
 
