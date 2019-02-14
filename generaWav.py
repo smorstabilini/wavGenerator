@@ -3,7 +3,7 @@ import sys
 from pydub import AudioSegment
 
 # chiamare questo scirpt come 
-# python3 generaWav "stringa da vocalizzare" "nome file di output.waw"
+# python3 generaWav.py "stringa da vocalizzare" "nome file di output"
 
 # The text that you want to convert to audio 
 if len(sys.argv) != 3:
